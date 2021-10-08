@@ -81,5 +81,5 @@ while option == True:
         elif botchoice == 'Rock':
             print('You lose! Rock beats Scissors!')
 
-    time.sleep(3) # Wait 37 seconds before playing again.
+    time.sleep(3) # Wait 3 seconds before playing again.
     print('\n')
