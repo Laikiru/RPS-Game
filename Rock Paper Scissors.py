@@ -30,7 +30,6 @@ def end_game(): # Function to end game if the player wants to.
             invalid = False
             option = True
             
-
 import random
 import time
 invalid = True # Used when input is invalid; prompts user to enter a correct input.
